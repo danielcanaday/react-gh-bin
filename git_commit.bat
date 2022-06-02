@@ -1,5 +1,5 @@
 git add .
 git commit
-git push -u origin main --force
+git push -u origin main
 
 pause
